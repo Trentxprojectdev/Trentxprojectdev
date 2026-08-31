@@ -1,209 +1,162 @@
-<img src="./BannerTransparent.png" alt="trentxproject_dev banner" />
+<div align="center"> <img src="./BannerTransparent.png" alt="trentxproject_dev banner" />
 
-# Hi there! 
+# <span style="color:#FF0000;">TRENTXPROJECT_DEV</span>
 
-Welcome to **trentxproject_dev**.
+### SELF-TAUGHT DEVELOPER | PROGRAMMER | GAME DEVELOPMENT ENTHUSIAST
 
-I'm a developer who enjoys building things with **Lua**, experimenting with code, creating games, and turning ideas into working projects. 
+**LEARN. PRACTICE. BUILD. IMPROVE.**
 
-I like exploring new systems, breaking things, fixing them, and learning something new along the way.
+</div>
 
 ---
 
-##  About Me
+## ABOUT ME
 
-I'm interested in programming, game development, scripting, and experimental projects.
+I'm a self-taught developer who enjoys learning by actually building things.
 
-I enjoy learning by actually building things rather than simply reading about them.
+I explore different programming languages, technologies, systems, and tools while working on projects, experiments, scripts, and game development.
 
-My usual workflow looks something like:
+I don't claim to master every technology I use.
+
+I'm learning them.
+
+I'm experimenting with them.
+
+I'm breaking things with them.
+
+And I'm improving one project at a time.
+
+### MY WORKFLOW
 
 ```text
 IDEA
-  â†“
-BUILD
-  â†“
-BREAK
-  â†“
-DEBUG
-  â†“
-REFINE
-  â†“
+  |
 LEARN
-  â†“
+  |
+PLAN
+  |
+BUILD
+  |
+TEST
+  |
+BREAK
+  |
+DEBUG
+  |
+IMPROVE
+  |
+REBUILD
+  |
 EVOLVE
-  â†“
+  |
 REPEAT
 ```
 
-I'm constantly experimenting with new concepts, testing systems, improving old projects, and finding better ways to solve problems.
+---
+
+## WHAT DO I DO?
+
+- Learn programming through tutorials and experimentation
+- Build small projects to improve my skills
+- Explore game development and game systems
+- Create scripts, tools, and experiments
+- Experiment with different programming languages
+- Break things and debug them
+- Improve and optimize existing projects
+- Explore web technologies
+- Study how systems work
+- Turn ideas into working projects
 
 ---
 
-##  What Do I Do?
+## LANGUAGES & TECHNOLOGIES
 
-<p>
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" />
-  <img alt="Luau" src="https://img.shields.io/badge/Luau-00A2FF?logo=lua&logoColor=white&style=for-the-badge" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-</p>
+### Programming Languages
 
--  Building projects with **Lua and Luau**
--  Experimenting with **game development and game systems**
--  Creating scripts, tools, and interactive experiences
--  Trying out new ideas and experimental projects
--  Constantly learning and improving my programming skills
--  Exploring systems, mechanics, and automation
--  Debugging, optimizing, and refining projects
--  Experimenting with web technologies
+<div align="center">
+
+<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=lua&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=FF0000" />
+
+</div>
+
+### Web Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=FF0000" />
+
+</div>
+
+### Databases & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=FF0000" />
+
+</div>
+
+> I'm still learning many of these technologies.
+>
+> Using a language doesn't mean I've mastered it.
 
 ---
 
-##  Game Development
+## GAME DEVELOPMENT
 
 Game development is one of the areas I enjoy exploring the most.
 
-I like experimenting with:
-
--  Gameplay systems
--  Game mechanics
--  Modular systems
--  User interfaces
--  Data systems
--  Event-driven systems
--  AI and NPC behavior
--  Saving and data handling
--  Multiplayer concepts
--  Developer tools
--  Experimental mechanics
-
-Game development is all about experimentation.
-
-An idea might work perfectly.
-
-Or it might completely explode.
-
-Either way, there's something to learn from it.
-
----
-
-##  My Projects
-
-I use GitHub as a place to experiment, build, and share projects.
-
-Some projects are serious experiments, some are learning projects, and some are simply ideas that I wanted to bring to life.
-
-Not every project has to be perfect.
-
-Some repositories may be polished, while others may be prototypes, experiments, or unfinished ideas.
-
-That's part of development.
-
-GitHub isn't only a place for finished software.
-
-It's also a place to **learn, experiment, document ideas, and grow**.
-
----
-
-##  Got Any Ideas?
-
-Have an idea for a **game, script, tool, system, website, experiment, or something completely new?**
-
-Don't keep it as just an idea.
-
-Every project starts somewhere. Sometimes it's a simple thought that appears out of nowhere. Sometimes it's a problem that needs solving. Sometimes it's something you've always wanted to build but never had the time or knowledge to create.
-
-You don't need to have everything figured out before you start.
-
-You don't need perfect code.
-
-You don't need to know exactly where the project will end up.
-
-You just need to take the **first step**.
-
-Start with the idea.
-
-Turn the idea into a plan.
-
-Turn the plan into code.
-
-Then test it, break it, fix it, improve it, and keep pushing it further.
-
-Some ideas will become successful projects.
-
-Some will become useful tools.
-
-Some will turn into experiments.
-
-Some might fail completely.
-
-And that's okay.
-
-Even a failed project can teach you something that helps you build the next one better.
-
----
-
-##  From Idea to Reality
-
-I believe that creativity and programming go hand in hand.
-
-An idea by itself is only a possibility.
-
-Code gives that possibility a structure.
-
-Experimentation gives it direction.
-
-Persistence gives it a chance to become something real.
+I'm interested in experimenting with:
 
 ```text
-IDEA
-  â†“
-PLAN
-  â†“
-BUILD
-  â†“
-TEST
-  â†“
-BREAK
-  â†“
-DEBUG
-  â†“
-IMPROVE
-  â†“
-REBUILD
-  â†“
-EVOLVE
-  â†“
-CREATE
+Gameplay Systems
+Game Mechanics
+Modular Systems
+User Interfaces
+Data Systems
+Event Systems
+AI / NPC Behavior
+Saving Systems
+Multiplayer Concepts
+Developer Tools
+Experimental Mechanics
 ```
 
-The process isn't always clean.
+Sometimes an idea works perfectly.
 
-Sometimes you'll spend hours fixing one problem.
+Sometimes everything explodes.
 
-Sometimes you'll completely rewrite a system.
+Either way:
 
-Sometimes you'll discover that your original idea doesn't work the way you expected.
-
-But every problem is another opportunity to learn.
-
-Every bug teaches you something.
-
-Every experiment gives you experience.
-
-Every project makes the next project easier.
+**There's something to learn.**
 
 ---
 
-##  Don't Be Afraid to Experiment
+## EXPERIMENTATION
 
-Some of the most interesting projects start with a simple question:
+One of the questions I like asking is:
 
 > **"What if I tried this?"**
-
-That's where experimentation begins.
 
 Try something new.
 
@@ -213,191 +166,222 @@ Test an unusual approach.
 
 Build something you've never built before.
 
-Break things intentionally.
+Break it.
 
-Find out why they broke.
+Find out why it broke.
 
-Then figure out how to make them better.
+Then make it better.
 
-Programming isn't about writing perfect code on the first attempt.
-
-It's about **learning, adapting, and improving**.
-
----
-
-##  Build What You Want to See
-
-Want to make a game mechanic that doesn't exist?
-
-**Build it.**
-
-Have an idea for a new system?
-
-**Prototype it.**
-
-Want to create a tool that makes development easier?
-
-**Make it.**
-
-Have a completely random idea that sounds impossible?
-
-**Try it anyway.**
-
-You might discover something interesting along the way.
-
-The goal isn't always to create something huge.
-
-Sometimes the smallest project can teach you the biggest lesson.
+```text
+QUESTION
+   |
+EXPERIMENT
+   |
+RESULT
+   |
+FAILURE
+   |
+DEBUG
+   |
+KNOWLEDGE
+   |
+IMPROVEMENT
+```
 
 ---
 
-##  Your Idea Doesn't Have to Be Perfect
+## MY PROJECTS
 
-Don't wait for the perfect moment.
+I use GitHub as a place to:
 
+- Build
+- Experiment
+- Practice
+- Document ideas
+- Test systems
+- Share projects
+- Learn from mistakes
+
+Not every project will be perfect.
+
+Some projects may be:
+
+```text
+FINISHED
+EXPERIMENTAL
+LEARNING PROJECTS
+PROTOTYPES
+WORK IN PROGRESS
+COMPLETELY BROKEN
+```
+
+And that's okay.
+
+Every project is another opportunity to learn.
+
+---
+
+## FROM IDEA TO REALITY
+
+```text
+IDEA
+ |
+PLAN
+ |
+CODE
+ |
+SYSTEM
+ |
+PROJECT
+ |
+TEST
+ |
+BREAK
+ |
+DEBUG
+ |
+IMPROVE
+ |
+REBUILD
+ |
+EVOLVE
+```
+
+An idea is only a possibility.
+
+Code gives it structure.
+
+Experimentation gives it direction.
+
+Persistence gives it a chance to become something real.
+
+---
+
+## CURRENT MINDSET
+
+```text
 Don't wait until you know everything.
 
-Don't wait until your code is perfect.
+Start.
 
-Start small.
+Build something small.
 
-Build the first version.
+Break it.
+
+Figure out why.
+
+Fix it.
 
 Learn from it.
 
-Then make version two better.
+Build something better.
 
-```text
-v0.1 â†’ v0.2 â†’ v0.3 â†’ v1.0 â†’ v2.0 â†’ âˆž
+Repeat.
 ```
 
-Progress doesn't come from waiting.
-
-Progress comes from **building**.
-
 ---
 
-##  Imagine It. Build It. Go Beyond.
+## LEARNING
 
-A project can start with nothing more than a thought.
+I'm constantly exploring new technologies whenever I have the opportunity.
 
-A thought becomes an idea.
+My goal isn't to know everything.
 
-An idea becomes a plan.
-
-A plan becomes code.
-
-Code becomes a system.
-
-A system becomes a project.
-
-And a project can become something that other people use, enjoy, learn from, or build upon.
-
-That's the part of development that keeps me interested.
-
-Taking something that exists only in your imagination and slowly turning it into something that actually exists.
-
----
-
-##  So... Got an Idea?
-
-If you have an interesting idea, don't be afraid to explore it.
-
-It doesn't matter if it's small.
-
-It doesn't matter if it's experimental.
-
-It doesn't matter if it sounds complicated.
-
-It doesn't even matter if you don't know how to build it yet.
-
-**Start learning.**
-
-**Start experimenting.**
-
-**Start building.**
-
-Because you never know where one simple idea might lead.
-
-> **Every project begins with an idea.**
->
-> **Every idea begins with imagination.**
->
-> **Every creation begins with the decision to start.**
-
----
-
-##  BUILD. BREAK. LEARN. EVOLVE. BEYOND.
+My goal is to keep learning.
 
 ```text
-THINK.
- â†“
-CREATE.
- â†“
-EXPERIMENT.
- â†“
-BREAK.
- â†“
-DEBUG.
- â†“
-LEARN.
- â†“
-IMPROVE.
- â†“
-BUILD AGAIN.
- â†“
-GO BEYOND.
+LEARN
+  |
+PRACTICE
+  |
+BUILD
+  |
+FAIL
+  |
+UNDERSTAND
+  |
+IMPROVE
+  |
+REPEAT
 ```
 
-**Have an idea?**
+---
 
-**Don't just imagine it.**
+## GOT AN IDEA?
 
-### **BUILD IT. **
+Have an idea for a:
+
+**Game | Script | Tool | System | Website | Experiment**
+
+Don't just leave it as an idea.
+
+```text
+THINK
+ |
+CREATE
+ |
+EXPERIMENT
+ |
+BREAK
+ |
+DEBUG
+ |
+LEARN
+ |
+IMPROVE
+ |
+BUILD AGAIN
+ |
+GO BEYOND
+```
 
 ---
 
-##  GitHub Stats
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=trentxproject_dev&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=FFFFFF&custom_title=trentxproject_dev%27s%20GitHub%20Stats&show_icons=true&theme=dark"
-    alt="trentxproject_dev's GitHub Stats"
-  />
-</p>
-
----
-
-##  Let's Connect!
-
-Have an idea, found something interesting in one of my projects, or just want to talk about programming?
-
-Feel free to reach out! 
-
-<p>
-  <a href="https://github.com/trentxproject_dev">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-> `CODE IS A WEAPON.`
->
-> `VISION IS THE FUEL.`
->
-> `BUILD. BREAK. BEYOND.`
+## GITHUB STATS
 
 <div align="center">
 
-###  trentxproject_dev 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=trentxproject_dev&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000"
+  alt="GitHub Stats"
+/>
 
-**BUILD. BREAK. BEYOND.**
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=trentxproject_dev&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF"
+  alt="Top Languages"
+/>
 
-`CODE IS A WEAPON.`
+</div>
 
-`VISION IS THE FUEL.`
+---
 
-`[ EVOLVE FOREVER ]`
+## CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=trentxproject_dev&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true"
+  alt="Contribution Graph"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+# BUILD. BREAK. BEYOND.
+
+### Every project begins with an idea.
+
+### Every idea begins with imagination.
+
+### Every creation begins with the decision to start.
+
+```text
+CODE IS A WEAPON.
+VISION IS THE FUEL.
+[ EVOLVE FOREVER ]
+```
 
 </div>
