@@ -1,4 +1,4 @@
-<img src="/BannerTransparent.png" alt="banner" />
+<img src="./BannerTransparent.png" alt="banner" />
 
 ### Hi there! 👋
 
