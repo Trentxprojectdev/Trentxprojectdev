@@ -10,7 +10,7 @@
 
 ---
 
-## ABOUT ME🔱
+## ABOUT ME
 
 I'm a self-taught developer who enjoys learning by actually building things.
 
